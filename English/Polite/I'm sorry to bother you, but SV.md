@@ -9,3 +9,7 @@ I'm sorry to bother you, but may I ask for something?
 お忙しいところ恐縮ですが、SV
 I know you are busy, but SV.
 
+---
+
+[[I'm afraid that SV]] でも同じ。
+

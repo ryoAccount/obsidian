@@ -93,12 +93,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polite/Let me -.md",
+                "file": "Word/toward.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Let me -"
+              "title": "toward"
             }
           }
         ],
@@ -251,28 +251,36 @@
   },
   "active": "baf6135f89105295",
   "lastOpenFiles": [
-    "Word/despite.md",
-    "Word/regardless.md",
-    "Polite/Could you -.md",
-    "Polite/I was wondering if I could -.md",
-    "Polite/I'm sorry to bother you, but SV.md",
-    "Polite/May I -.md",
-    "Polite/If you don't mind, SV.md",
+    "conjunction/whether A or B.md",
+    "Word/toward.md",
+    "conjunction/either A or B.md",
+    "conjunction/rather than.md",
+    "Phrase/sign up.md",
+    "conjunction",
+    "grammar/However (adj,adv) SV, -.md",
     "Polite/I would like to -.md",
+    "Polite/I wish I could -.md",
+    "Phrase/figure out.md",
+    "grammar",
+    "Word/extend.md",
+    "Word/examine.md",
+    "Polite/May I -.md",
+    "Polite/Would you mind -ing -.md",
     "Polite/Would it be possible for you to -.md",
-    "Polite/don't hesitate to -.md",
-    "Polite/Let me -.md",
+    "Polite/I was wondering if I could -.md",
+    "Polite/If you don't mind, SV.md",
+    "Polite/Thank you for -ing, but SV.md",
+    "Polite/I'm sorry to bother you, but SV.md",
+    "Polite/I'm afraid that SV.md",
     "Polite/This is to announce that SV.md",
-    "Phrase/put off.md",
-    "Phrase/making progress.md",
-    "Phrase/In charge of.md",
-    "Phrase/responsible for.md",
-    "Polite/I'm going to ask you to -.md",
-    "Polite/It's -.md",
+    "Polite/That would be -.md",
+    "Word/appreciate.md",
+    "Word/apologize.md",
+    "Word/despite.md",
+    "Polite/If you are free, would you like to do -.md",
+    "Polite/I thank you -.md",
     "Polite",
-    "create a link.md",
     "Phrase",
-    "Word",
-    "Welcome.md"
+    "Word"
   ]
 }

@@ -7,4 +7,7 @@ I was wondering if I could ask your opinion.
 明日はお休みをいただきたいのですが。
 I was wondering if I could take tomorrow off.
 
+---
+
+[[I would like to -]] でも代用可能
 

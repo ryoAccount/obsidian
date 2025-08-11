@@ -16,3 +16,8 @@ I would like to update you.
 ---
 ～してほしい場合はこちらを使う
 [[I'm going to ask you to -]]
+
+---
+
+[[I was wondering if I could -]] でも代用可能
+

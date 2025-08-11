@@ -7,3 +7,7 @@ Would it be possible for you to tell me your business background?
 ---
 自分でする場合はこちらを使う。
 [[May I -]]
+
+---
+
+[[Would you mind -ing -]] と同じ
