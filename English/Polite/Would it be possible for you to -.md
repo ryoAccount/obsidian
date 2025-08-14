@@ -10,4 +10,4 @@ Would it be possible for you to tell me your business background?
 
 ---
 
-[[Would you mind -ing -]] と同じ
+[[Would you mind -]] と同じ

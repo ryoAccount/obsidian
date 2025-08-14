@@ -4,105 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d3498e9e8c452e77",
+        "id": "ae98a8be22e82316",
         "type": "tabs",
         "children": [
           {
-            "id": "724339e34b60ee85",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "7d6a543fc66ecb7e",
+            "id": "ece25b1cb095d78f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phrase/making progress.md",
+                "file": "Polite/I would like to -.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "making progress"
-            }
-          },
-          {
-            "id": "dba62d7bfe45191d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Word/regardless.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "regardless"
-            }
-          },
-          {
-            "id": "764435e85849eead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Word/despite.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "despite"
-            }
-          },
-          {
-            "id": "0b4f4c838e436702",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phrase/responsible for.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "responsible for"
-            }
-          },
-          {
-            "id": "b55b4e712c4ecd55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Polite/It's -.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "It's -"
-            }
-          },
-          {
-            "id": "baf6135f89105295",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Word/toward.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "toward"
+              "title": "I would like to -"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,36 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baf6135f89105295",
+  "active": "ece25b1cb095d78f",
   "lastOpenFiles": [
-    "conjunction/whether A or B.md",
-    "Word/toward.md",
-    "conjunction/either A or B.md",
-    "conjunction/rather than.md",
+    "Polite/I wish I could -.md",
+    "Polite/I would like to -.md",
+    "Polite/I was wondering if I could -.md",
+    "Polite/I'll be happy -.md",
+    "Polite/Would you mind -.md",
+    "Polite/I'm afraid that SV.md",
+    "Polite/I'm sorry to bother you, but SV.md",
+    "Word/examine.md",
+    "Word/despite.md",
+    "Word/regardless.md",
+    "Polite/I'm delighted to -.md",
+    "Polite/I thank you -.md",
+    "Polite/That would be -.md",
+    "Polite/Thank you for -ing, but SV.md",
+    "Word/declare.md",
+    "Grammar/in favor of -, in support of -.md",
+    "Polite/May I -.md",
+    "Polite/Would it be possible for you to -.md",
+    "Word/appreciate.md",
+    "Polite/Could you -.md",
+    "Word/apologize.md",
+    "Grammar/However (adj,adv) SV, -.md",
+    "Polite/I'm going to ask you to -.md",
+    "Polite/Let me -.md",
+    "Polite/don't hesitate to -.md",
     "Phrase/sign up.md",
     "conjunction",
-    "grammar/However (adj,adv) SV, -.md",
-    "Polite/I would like to -.md",
-    "Polite/I wish I could -.md",
-    "Phrase/figure out.md",
     "grammar",
-    "Word/extend.md",
-    "Word/examine.md",
-    "Polite/May I -.md",
-    "Polite/Would you mind -ing -.md",
-    "Polite/Would it be possible for you to -.md",
-    "Polite/I was wondering if I could -.md",
-    "Polite/If you don't mind, SV.md",
-    "Polite/Thank you for -ing, but SV.md",
-    "Polite/I'm sorry to bother you, but SV.md",
-    "Polite/I'm afraid that SV.md",
-    "Polite/This is to announce that SV.md",
-    "Polite/That would be -.md",
-    "Word/appreciate.md",
-    "Word/apologize.md",
-    "Word/despite.md",
-    "Polite/If you are free, would you like to do -.md",
-    "Polite/I thank you -.md",
     "Polite",
     "Phrase",
     "Word"

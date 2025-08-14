@@ -11,5 +11,5 @@ I know you are busy, but SV.
 
 ---
 
-[[I'm afraid that SV]] でも同じ。
+≒ [[I'm afraid that SV]] 
 

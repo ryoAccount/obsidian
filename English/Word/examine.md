@@ -3,8 +3,6 @@
 他動詞
 名詞 examination 検査
 
-
-
 ---
 
 investigate （主に原因・問題の意味で）検査する

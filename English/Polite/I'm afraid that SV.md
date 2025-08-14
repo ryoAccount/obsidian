@@ -6,5 +6,6 @@ I'm afraid that I can't make it today.
 
 ---
 
-[[Thank you for -ing, but SV]] と同様に断る時の丁寧な表現。
+断る時の丁寧な表現
+≒ [[Thank you for -ing, but SV]] 
 

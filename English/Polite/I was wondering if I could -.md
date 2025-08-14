@@ -9,5 +9,4 @@ I was wondering if I could take tomorrow off.
 
 ---
 
-[[I would like to -]] でも代用可能
-
+≒ [[I would like to -]] 
