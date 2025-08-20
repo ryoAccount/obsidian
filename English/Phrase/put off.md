@@ -1,3 +1,3 @@
 延期する
 
-[[making progress]] とは反対語
+≠ [[making progress]] （反対語）

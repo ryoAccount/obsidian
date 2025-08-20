@@ -1,6 +1,10 @@
-順調に進んている
+順調に進んでいる
 
-順調に進んている。
+= in progress
+= on schedule
+≠ [[put off]]
+
+順調に進んでいる。
 We are making progress.
 We are in progress.
 We are on schedule.
