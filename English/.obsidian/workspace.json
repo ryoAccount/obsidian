@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "520c9924b420727f",
+        "id": "90d02af76b0eb3ed",
         "type": "tabs",
         "children": [
           {
-            "id": "b62d8c9e8ab7d96a",
+            "id": "9d56a346a1f3f661",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Grammar - 文法/Participial construction - 分詞構文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Participial construction - 分詞構文"
             }
           }
         ]
@@ -165,13 +169,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b62d8c9e8ab7d96a",
+  "active": "9d56a346a1f3f661",
   "lastOpenFiles": [
-    "Grammar - 文法/Restrictive - 制限用法.md",
+    "Grammar - 文法/Subordinating Conjunction - 従属接続詞.md",
+    "Conjunction - 接続詞/once.md",
+    "Conjunction - 接続詞/neither A nor B.md",
+    "Conjunction - 接続詞/whether A or B.md",
+    "Conjunction - 接続詞/either A or B.md",
+    "Grammar - 文法/Coordinating Conjunction - 等位接続詞.md",
+    "Conjunction - 接続詞/A rather than B.md",
+    "Grammar - 文法/Complement - 補語.md",
     "Grammar - 文法/Relative Pronoun - 関係代名詞.md",
+    "Grammar - 文法/However (adj,adv) SV, -.md",
+    "Grammar - 文法/in favor of -, in support of -.md",
+    "Polite - 丁寧語/I was wondering if I could -.md",
+    "Grammar - 文法/Restrictive - 制限用法.md",
     "Grammar - 文法/Non-Restrictive - 非制限用法.md",
     "Grammar - 文法/Relative Adverb - 関係副詞.md",
-    "Grammar - 文法/Subordinating Conjunction - 従属接続詞.md",
     "Grammar - 文法/Participial construction - 分詞構文.md",
     "Polite - 丁寧語/Would it be possible for you to -.md",
     "Polite - 丁寧語/Would you mind -.md",
@@ -183,16 +197,6 @@
     "Polite - 丁寧語/I'm delighted to -.md",
     "Polite - 丁寧語/I'm afraid that SV.md",
     "Polite - 丁寧語/Thank you for -ing, but SV.md",
-    "Polite - 丁寧語/I'll be happy -.md",
-    "Polite - 丁寧語/I was wondering if I could -.md",
-    "Polite - 丁寧語/I'm sorry to bother you, but SV.md",
-    "Polite - 丁寧語/May I -.md",
-    "Polite - 丁寧語/It's -.md",
-    "Polite - 丁寧語/Could you -.md",
-    "Conjunction - 接続詞/A rather than B.md",
-    "Polite - 丁寧語/I wish I could -.md",
-    "Polite - 丁寧語/I thank you -.md",
-    "Polite - 丁寧語/I would like to -.md",
     "Participial construction - 分詞構文",
     "conjunction",
     "grammar",

@@ -12,3 +12,4 @@
 ---
 
 [[whether A or B]]
+[[once]]
