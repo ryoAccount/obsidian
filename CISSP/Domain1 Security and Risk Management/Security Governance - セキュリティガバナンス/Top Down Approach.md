@@ -1,4 +1,5 @@
 It is a method of making decisions by proceeding from the highest level to the lowest level.
+And we do that through deliverables, processes, procedures, standards, and a [[Security Planning]].
 
 - **Senior management** 
 	- They have to define the security policies for the business.
@@ -18,6 +19,7 @@ It is a method of making decisions by proceeding from the highest level to the l
 ## トップダウンアプローチ
 
 物事を決定する際に、上位の階層から下位の階層へと順に進めていく方法を指す。
+そして、私たちはそれを、成果物、プロセス、手順、標準、そしてセキュリティ計画（[[Security Planning]]）を通じて行います。
 
 - **経営幹部**
 	- ビジネスのセキュリティポリシーを定義する。
