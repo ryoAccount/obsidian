@@ -1,55 +1,84 @@
 {
   "main": {
-    "id": "ffbdba19b1716538",
+    "id": "61c02eef95268d6a",
     "type": "split",
     "children": [
       {
-        "id": "59844314e5bc4f8d",
+        "id": "85d6b114853192b1",
         "type": "tabs",
         "children": [
           {
-            "id": "2af688221c3341c6",
+            "id": "c55459b99f503678",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任/Data.md",
+                "file": "Domain1_Security Risk and Management/1/Content review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data"
+              "title": "Content review"
             }
           },
           {
-            "id": "f3d8eb9c6d9d521f",
+            "id": "9d8dbd39a699c4be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1 Security and Risk Management/Security Governance - セキュリティガバナンス/Security Governance.md",
+                "file": "Domain1_Security Risk and Management/1/Content review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Governance"
+              "title": "Content review"
+            }
+          },
+          {
+            "id": "51cce0e30241ab37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain1_Security Risk and Management/1/Computer Based Training.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Based Training"
+            }
+          },
+          {
+            "id": "5752e31cd4c62710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Domain1_Security Risk and Management/2/Residual risk.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Residual risk"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "435c82fed2516d57",
+    "id": "6a0de6afeff5ba0d",
     "type": "split",
     "children": [
       {
-        "id": "fe22054164778cfd",
+        "id": "d3bcddabea0003f8",
         "type": "tabs",
         "children": [
           {
-            "id": "4883957af3b64536",
+            "id": "5f92cbdb7469431b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +91,7 @@
             }
           },
           {
-            "id": "034175cbd2085506",
+            "id": "39c6949ca4040542",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +108,7 @@
             }
           },
           {
-            "id": "2558727a84ecce09",
+            "id": "be416fce7ad406be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,19 +124,20 @@
     "width": 300
   },
   "right": {
-    "id": "2e8bf221ee00f772",
+    "id": "0e48bc03a421562b",
     "type": "split",
     "children": [
       {
-        "id": "fd16c9c930a99607",
+        "id": "bfb458f96bb4c4db",
         "type": "tabs",
         "children": [
           {
-            "id": "04cb19de3a8c11e4",
+            "id": "9bc0dc9b3ae73b02",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Domain1_Security Risk and Management/2/Residual risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,24 +147,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Residual risk"
             }
           },
           {
-            "id": "ba556b1634aa362d",
+            "id": "cd99da64434564d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Domain1_Security Risk and Management/2/Residual risk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Residual risk"
             }
           },
           {
-            "id": "cea4eb9faf1574d5",
+            "id": "b60cc531b21b850a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,17 +180,18 @@
             }
           },
           {
-            "id": "4526b1ccd11e99c3",
+            "id": "10a10caf2bbef2ae",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Domain1_Security Risk and Management/2/Residual risk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Residual risk"
             }
           }
         ]
@@ -180,34 +212,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "2af688221c3341c6",
+  "active": "5752e31cd4c62710",
   "lastOpenFiles": [
-    "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任/Key Roles and Responsibilities.md",
-    "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任/Security.md",
-    "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任/Executive.md",
-    "Domain1 Security and Risk Management/Domain 1 - Security and Risk Management.md",
-    "Domain1 Security and Risk Management/Security Governance - セキュリティガバナンス/Security Planning.md",
-    "Domain1 Security and Risk Management/CIA Triad - CIAトライアド/CIA Trid.md",
-    "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任/System.md",
-    "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任/Data.md",
-    "Domain1 Security and Risk Management/Security Governance - セキュリティガバナンス/Security Governance.md",
-    "Domain1 Security and Risk Management/Code of Ethics - 倫理規定/Protect Society.md",
-    "Domain1 Security and Risk Management/Code of Ethics - 倫理規定/Advance and Protect The Profession.md",
-    "Domain1 Security and Risk Management/Code of Ethics - 倫理規定/Canons in Practice.md",
-    "Domain1 Security and Risk Management/Code of Ethics - 倫理規定/Code of Ethics.md",
-    "Domain1 Security and Risk Management/Security Governance - セキュリティガバナンス/Top Down Approach.md",
-    "Domain1 Security and Risk Management/CIA Triad - CIAトライアド/Authenticity.md",
-    "Domain1 Security and Risk Management/CIA Triad - CIAトライアド/Non-repudiation.md",
-    "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任",
-    "Pasted image 20250903233407.png",
-    "Domain1 Security and Risk Management/Code of Ethics - 倫理規定/Act Honorably.md",
-    "Domain1 Security and Risk Management/Code of Ethics - 倫理規定/Provide Diligent and Competent Service.md",
-    "Pasted image 20250829010741.png",
-    "Domain1 Security and Risk Management/Security Governance - セキュリティガバナンス",
-    "Pasted image 20250823215518.png",
-    "Domain1 Security and Risk Management/CIA Triad - CIAトライアド",
-    "Domain1 Security and Risk Management",
-    "Welcome.md",
-    "Domain1 Security and Risk Management/Code of Ethics - 倫理規定"
+    "Domain1_Security Risk and Management/2/Control risk.md",
+    "Domain1_Security Risk and Management/2/Inherent Risk.md",
+    "Domain1_Security Risk and Management/2/Mitigated risk.md",
+    "Domain1_Security Risk and Management/2/Residual risk.md",
+    "Domain1_Security Risk and Management/3",
+    "Domain1_Security Risk and Management/2",
+    "Domain1_Security Risk and Management/1/Computer Based Training.md",
+    "Domain1_Security Risk and Management/1",
+    "Domain1_Security Risk and Management/1/Content review.md",
+    "Domain1_Security Risk and Management/1/Live training.md",
+    "Domain1_Security Risk and Management/1/Gamification.md",
+    "Domain1_Security Risk and Management"
   ]
 }

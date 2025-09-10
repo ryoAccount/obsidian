@@ -1,0 +1,3 @@
+Gamification is the application of game design elements and principles to non-game activities or services, primarily to increase user motivation, loyalty, engagement, and encourage specific behaviours through game elements such as levelling up, scores, badges, and competition.
+
+ゲーミフィケーションとは、ゲームデザインの要素や原則を、ゲーム以外の活動やサービスに適用する手法のことです。主な目的は、レベルアップ、スコア、バッジ、競争などのゲーム要素を通じて、利用者のモチベーション、ロイヤリティ、エンゲージメントを高め、特定の行動を促すことです。
