@@ -1,5 +1,5 @@
 
-- **Administrator**: Responsible for implementing and maintaing the information system - privileged
+- **Administrator**: Responsible for implementing and maintaining the information system - privileged
 - **Auditor**: Responsible for auditing the compliance with security policy
 - **User**: A subject with access to theinformation system
 
