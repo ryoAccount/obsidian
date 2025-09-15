@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1_Security Risk and Management/13/STRIDE Threat Model.md",
+                "file": "Domain1_Security Risk and Management/21/Patent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "STRIDE Threat Model"
+              "title": "Patent"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trade secret",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +171,32 @@
   },
   "active": "104f3af0152ed579",
   "lastOpenFiles": [
-    "Domain1_Security Risk and Management/13/Elevation of Privilege.md",
+    "Domain1_Security Risk and Management/21/Trade Secret.md",
+    "Domain1_Security Risk and Management/21/Patent.md",
+    "Domain1_Security Risk and Management/Law.md",
+    "Domain1_Security Risk and Management/17/Economic Espionage Act (EEA).md",
+    "Domain1_Security Risk and Management/3/Lanham Act.md",
+    "Domain1_Security Risk and Management/Management.md",
+    "Domain1_Security Risk and Management/21",
+    "Domain1_Security Risk and Management/20/Administrative Investigation.md",
+    "Domain1_Security Risk and Management/Rule.md",
+    "Domain1_Security Risk and Management/19/Intellectual Property.md",
+    "Domain1_Security Risk and Management/20",
+    "Domain1_Security Risk and Management/18/Due Care.md",
+    "Domain1_Security Risk and Management/19",
+    "Domain1_Security Risk and Management/18/Due Diligence.md",
+    "Domain1_Security Risk and Management/18",
+    "Domain1_Security Risk and Management/3/Gramm-Leach-Bliley Act (GLBA).md",
+    "Domain1_Security Risk and Management/17",
+    "Domain1_Security Risk and Management/16/Quantitative and Qualitative Risk Assessment.md",
+    "Domain1_Security Risk and Management/14/Business Continuity Plan (BCP).md",
+    "Domain1_Security Risk and Management/16",
+    "Domain1_Security Risk and Management/15/15.md",
+    "Domain1_Security Risk and Management/15",
+    "Domain1_Security Risk and Management/14/Untitled.md",
     "Domain1_Security Risk and Management/13/STRIDE Threat Model.md",
+    "Domain1_Security Risk and Management/14",
+    "Domain1_Security Risk and Management/13/Elevation of Privilege.md",
     "Domain1_Security Risk and Management/13/Denial of Service.md",
     "Domain1_Security Risk and Management/13/Information Disclosure.md",
     "Domain1_Security Risk and Management/13/Repudiation.md",
@@ -182,30 +206,6 @@
     "Domain1_Security Risk and Management/13",
     "Domain1_Security Risk and Management/7/Subscription License.md",
     "Domain1_Security Risk and Management/7/Perpetual License.md",
-    "Domain1_Security Risk and Management/7/Enterprise License Agreement.md",
-    "Domain1_Security Risk and Management/7/End-user License Agreement.md",
-    "Domain1_Security Risk and Management/Rule.md",
-    "Domain1_Security Risk and Management/8/Code of Ethics Canons.md",
-    "Domain1_Security Risk and Management/9/Privacy Shield.md",
-    "Domain1_Security Risk and Management/9/Standard Contractual Clauses.md",
-    "Domain1_Security Risk and Management/9/Safe Harbor.md",
-    "Domain1_Security Risk and Management/9/Binding Corporate Rules.md",
-    "Domain1_Security Risk and Management/Law.md",
-    "Domain1_Security Risk and Management/11/Payment Card Industry Data Security Standard (PCI DSS).md",
-    "Domain1_Security Risk and Management/11/Federal Information Security Modernization Act (FISMA).md",
-    "Domain1_Security Risk and Management/12/Export of encryption software.md",
-    "Domain1_Security Risk and Management/12",
-    "Domain1_Security Risk and Management/3/Gramm-Leach-Bliley Act (GLBA).md",
-    "Domain1_Security Risk and Management/11",
-    "Domain1_Security Risk and Management/10/Sarbanes Oxley Act (SOX).md",
-    "Domain1_Security Risk and Management/10/Health Insurance Portability and Accountability Act (HIPAA).md",
-    "Domain1_Security Risk and Management/10/Family Educational Rights and Privacy Act (FERPA).md",
-    "Domain1_Security Risk and Management/10",
-    "Domain1_Security Risk and Management/9",
-    "Domain1_Security Risk and Management/8",
-    "Domain1_Security Risk and Management/7",
-    "Domain1_Security Risk and Management/6",
-    "Domain1_Security Risk and Management/5",
-    "Domain1_Security Risk and Management/4"
+    "Domain1_Security Risk and Management/12"
   ]
 }
