@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1_Security Risk and Management/Law.md",
+                "file": "Domain1_Security Risk and Management/25/Security Controls Assessment (SCA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Law"
+              "title": "Security Controls Assessment (SCA)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "trade secret",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,8 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "104f3af0152ed579",
+  "active": "5f92cbdb7469431b",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Domain1_Security Risk and Management/10/Family Educational Rights and Privacy Act (FERPA).md",
     "Domain1_Security Risk and Management/Law.md",
     "Domain1_Security Risk and Management/10/Health Insurance Portability and Accountability Act (HIPAA).md",
@@ -207,5 +208,43 @@
     "Domain1_Security Risk and Management/6",
     "Domain1_Security Risk and Management/5",
     "Domain1_Security Risk and Management/4"
+=======
+    "Domain1_Security Risk and Management/26",
+    "Domain1_Security Risk and Management/24/Intrusion Prevention System (IPS).md",
+    "Domain1_Security Risk and Management/Management.md",
+    "Domain1_Security Risk and Management/25/Security Controls Assessment (SCA).md",
+    "Domain1_Security Risk and Management/25",
+    "Domain1_Security Risk and Management/2/Mitigated Risk.md",
+    "Domain1_Security Risk and Management/2/Residual Risk.md",
+    "Domain1_Security Risk and Management/2/Control Risk.md",
+    "Domain1_Security Risk and Management/23/List of Assets.md",
+    "Domain1_Security Risk and Management/24",
+    "Domain1_Security Risk and Management/3/Copyright Act.md",
+    "Domain1_Security Risk and Management/23",
+    "Domain1_Security Risk and Management/3/Digital Millennium Copyright Act (DMCA).md",
+    "Domain1_Security Risk and Management/3/Gramm-Leach-Bliley Act (GLBA).md",
+    "Domain1_Security Risk and Management/21/Patent.md",
+    "Domain1_Security Risk and Management/22/RAID technology.md",
+    "Domain1_Security Risk and Management/20/Administrative Investigation.md",
+    "Domain1_Security Risk and Management/22",
+    "Domain1_Security Risk and Management/21/Trade Secret.md",
+    "Domain1_Security Risk and Management/Law.md",
+    "Domain1_Security Risk and Management/17/Economic Espionage Act (EEA).md",
+    "Domain1_Security Risk and Management/3/Lanham Act.md",
+    "Domain1_Security Risk and Management/21",
+    "Domain1_Security Risk and Management/Rule.md",
+    "Domain1_Security Risk and Management/19/Intellectual Property.md",
+    "Domain1_Security Risk and Management/20",
+    "Domain1_Security Risk and Management/18/Due Care.md",
+    "Domain1_Security Risk and Management/19",
+    "Domain1_Security Risk and Management/18/Due Diligence.md",
+    "Domain1_Security Risk and Management/18",
+    "Domain1_Security Risk and Management/17",
+    "Domain1_Security Risk and Management/16/Quantitative and Qualitative Risk Assessment.md",
+    "Domain1_Security Risk and Management/14/Business Continuity Plan (BCP).md",
+    "Domain1_Security Risk and Management/16",
+    "Domain1_Security Risk and Management/15/15.md",
+    "Domain1_Security Risk and Management/14/Untitled.md"
+>>>>>>> 37862ae0c1c138978e8b7c0aa7e2d2df73585894
   ]
 }

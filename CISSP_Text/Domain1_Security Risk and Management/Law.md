@@ -9,13 +9,15 @@
 [[Health Insurance Portability and Accountability Act (HIPAA)]]
 [[Family Educational Rights and Privacy Act (FERPA)]]
 [[Federal Information Security Modernization Act (FISMA)]]
+[[Economic Espionage Act (EEA)]]
+[[Intellectual Property]]
 
 ---
 
 memo
-関連する分野﻿
+関連する分野
+
 - **GLBA**：:金融業界
 - **SOX**：:上場企業全般の財務報告
 - **HIPAA**：:医療業界
 - **FERPA**：:教育機関（学校、大学など）
-
