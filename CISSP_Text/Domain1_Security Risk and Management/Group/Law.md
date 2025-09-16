@@ -1,5 +1,5 @@
 [[Digital Millennium Copyright Act (DMCA)]]
-[[Domain1_Security Risk and Management/3/Gramm-Leach-Bliley Act (GLBA)]]
+[[Gramm-Leach-Bliley Act (GLBA)]]
 [[Lanham Act]]
 [[General Data Protection Regulation (GDPR)]]
 [[Data breach notification laws]]
