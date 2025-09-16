@@ -3,6 +3,10 @@
 - **Teach** personnel their security responsibilities within the organization
 - **Comply** with governance, regulations, and compliance (GRC) requirements
 
+[[Security Awareness Focus]]
+[[Security Awareness Methods]]
+[[Awareness Examples]]
+
 
 ---
 

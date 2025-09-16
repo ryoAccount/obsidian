@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Encouragement/Program Evaluations.md",
+                "file": "Domain1 Security and Risk Management/Social Engineering - ソーシャルエンジニアリング/Social Engineering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Program Evaluations"
+              "title": "Social Engineering"
             }
           },
           {
@@ -182,17 +182,20 @@
   },
   "active": "2af688221c3341c6",
   "lastOpenFiles": [
-    "Pasted image 20250912000708.png",
-    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Encouragement/Methods of Encouragement.md",
-    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Encouragement/Program Evaluations.md",
+    "Domain1 Security and Risk Management/Domain 1 - Security and Risk Management.md",
+    "Domain1 Security and Risk Management/Social Engineering - ソーシャルエンジニアリング/Social Engineering.md",
+    "Domain1 Security and Risk Management/Social Engineering - ソーシャルエンジニアリング",
+    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Content Updates.md",
+    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Program Evaluations.md",
+    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Awareness/Goals of Security Awareness.md",
     "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Security Awareness.md",
-    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Encouragement",
+    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Encouragement/Methods of Encouragement.md",
+    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Awareness/Awareness Examples.md",
     "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Awareness/Security Awareness Methods.md",
     "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Awareness/Security Awareness Focus.md",
-    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Awareness/Awareness Examples.md",
-    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Awareness/Goals of Security Awareness.md",
+    "Pasted image 20250912000708.png",
+    "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Encouragement",
     "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育/Awareness",
-    "Domain1 Security and Risk Management/Domain 1 - Security and Risk Management.md",
     "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任/Key Roles and Responsibilities.md",
     "Domain1 Security and Risk Management/Security Awareness Training and Education - セキュリティ意識向上トレーニングと教育",
     "Pasted image 20250911225425.png",
@@ -213,7 +216,6 @@
     "Domain1 Security and Risk Management/Roles and Responsibilities - 役割と責任",
     "Pasted image 20250903233407.png",
     "Domain1 Security and Risk Management/Code of Ethics - 倫理規定/Act Honorably.md",
-    "Domain1 Security and Risk Management/Code of Ethics - 倫理規定/Provide Diligent and Competent Service.md",
     "Pasted image 20250829010741.png",
     "Domain1 Security and Risk Management/Security Governance - セキュリティガバナンス",
     "Pasted image 20250823215518.png",

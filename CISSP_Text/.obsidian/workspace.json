@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1_Security Risk and Management/Security Controls Assessment (SCA).md",
+                "file": "Domain1_Security Risk and Management/Data Custodian.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Controls Assessment (SCA)"
+              "title": "Data Custodian"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "office",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain1_Security Risk and Management/Security Controls Assessment (SCA).md",
+                "file": "Domain1_Security Risk and Management/Data Custodian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Security Controls Assessment (SCA)"
+              "title": "Backlinks for Data Custodian"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain1_Security Risk and Management/Security Controls Assessment (SCA).md",
+                "file": "Domain1_Security Risk and Management/Data Custodian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Security Controls Assessment (SCA)"
+              "title": "Outgoing links from Data Custodian"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain1_Security Risk and Management/Security Controls Assessment (SCA).md",
+                "file": "Domain1_Security Risk and Management/Data Custodian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Security Controls Assessment (SCA)"
+              "title": "Outline of Data Custodian"
             }
           }
         ]
@@ -169,32 +169,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd7402f2a267594f",
+  "active": "adbe7c0d4d68157d",
   "lastOpenFiles": [
+    "Domain1_Security Risk and Management/Data Steward.md",
+    "Domain1_Security Risk and Management/Data Custodian.md",
+    "Domain1_Security Risk and Management/Data Owner.md",
+    "Pasted image 20250916235710.png",
+    "Untitled.md",
+    "Domain1_Security Risk and Management/Defense Contractor.md",
+    "Domain1_Security Risk and Management/Defense in Depth.md",
+    "Domain1_Security Risk and Management/Group/Management.md",
+    "Domain1_Security Risk and Management/Group/Attack.md",
+    "Domain1_Security Risk and Management/Group/Institution.md",
+    "Domain1_Security Risk and Management/Group/Rule.md",
+    "Domain1_Security Risk and Management/Mandatory Vacation.md",
+    "Domain1_Security Risk and Management/The segregation of duties (SoD).md",
+    "Domain1_Security Risk and Management/The U.S. Patent and Trademark Office (USPTO).md",
+    "Domain1_Security Risk and Management/The Library of Congress Copyright Office.md",
+    "Domain1_Security Risk and Management/SYN flood attack.md",
+    "Domain1_Security Risk and Management/Health Insurance Portability and Accountability Act (HIPAA).md",
+    "Domain1_Security Risk and Management/Group/Law.md",
+    "Domain1_Security Risk and Management/Trademark.md",
+    "Domain1_Security Risk and Management/Lanham Act.md",
+    "Domain1_Security Risk and Management/Patent.md",
+    "Domain1_Security Risk and Management/Beyond a Reasonable Doubt.md",
+    "Domain1_Security Risk and Management/Beyond the Shadow of a Doubt.md",
+    "Domain1_Security Risk and Management/Security Controls Assessment (SCA).md",
     "Domain1_Security Risk and Management/Intrusion Prevention System (IPS).md",
     "Domain1_Security Risk and Management/List of Assets.md",
     "Domain1_Security Risk and Management/RAID technology.md",
-    "Domain1_Security Risk and Management/Patent.md",
-    "Domain1_Security Risk and Management/Administrative Investigation.md",
-    "Domain1_Security Risk and Management/Intellectual Property.md",
-    "Domain1_Security Risk and Management/Due Care.md",
-    "Domain1_Security Risk and Management/Economic Espionage Act (EEA).md",
-    "Domain1_Security Risk and Management/Quantitative and Qualitative Risk Assessment.md",
-    "Domain1_Security Risk and Management/Business Continuity Plan (BCP).md",
-    "Domain1_Security Risk and Management/Denial of Service.md",
-    "Domain1_Security Risk and Management/Export of encryption software.md",
-    "Domain1_Security Risk and Management/Federal Information Security Modernization Act (FISMA).md",
-    "Domain1_Security Risk and Management/Family Educational Rights and Privacy Act (FERPA).md",
-    "Domain1_Security Risk and Management/Binding Corporate Rules.md",
-    "Domain1_Security Risk and Management/End-user License Agreement.md",
-    "Domain1_Security Risk and Management/Data breach notification laws.md",
-    "Domain1_Security Risk and Management/Acceptance.md",
-    "Domain1_Security Risk and Management/General Data Protection Regulation (GDPR).md",
-    "Domain1_Security Risk and Management/Group",
-    "Domain1_Security Risk and Management/Copyright Act.md",
-    "Domain1_Security Risk and Management/Control risk.md",
-    "Domain1_Security Risk and Management/Computer Based Training.md",
-    "Domain1_Security Risk and Management/Security Controls Assessment (SCA).md",
-    "Domain1_Security Risk and Management/Content review.md"
+    "Domain1_Security Risk and Management/Group"
   ]
 }

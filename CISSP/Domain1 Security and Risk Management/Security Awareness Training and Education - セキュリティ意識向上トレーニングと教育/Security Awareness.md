@@ -2,9 +2,8 @@
 Brings relevant security  matters to employees attention
 
 [[Goals of Security Awareness]]
-[[Security Awareness Focus]]
-[[Security Awareness Methods]]
-[[Awareness Examples]] / [[Methods of Encouragement]]
+[[Methods of Encouragement]]
+[[Program Evaluations]]
 
 
 ---

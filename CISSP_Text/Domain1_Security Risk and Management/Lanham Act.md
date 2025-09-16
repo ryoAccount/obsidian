@@ -1,5 +1,5 @@
 
-The Lanham Act is a federal trademark law in the United States that protects trademarks, service marks, *trade dress*, and other trademarks and prohibits infringement by others.
+The Lanham Act is a federal trademark law in the United States that protects [[Trademark]]s, service marks, *trade dress*, and other [[Trademark]]s and prohibits infringement by others.
 Enacted in 1946 and still in effect today, the law not only protects trademark rights but also prevents unfair competition.
 
 ランハム法とは、アメリカの連邦商標法であり、商標、サービスマーク、*トレードドレス*などの商標を保護し、他者の侵害行為を禁止する法律です。
