@@ -8,6 +8,7 @@
 [[Sarbanes Oxley Act (SOX)]]
 [[Health Insurance Portability and Accountability Act (HIPAA)]]
 [[Family Educational Rights and Privacy Act (FERPA)]]
+[[Federal Information Security Modernization Act (FISMA)]]
 
 ---
 
