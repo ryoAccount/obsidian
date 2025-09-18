@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1_Security Risk and Management/Recovery Time Objective (RTO).md",
+                "file": "Domain1_Security Risk and Management/Data breach notification laws.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Recovery Time Objective (RTO)"
+              "title": "Data breach notification laws"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Data breach notification laws",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,35 +169,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "adbe7c0d4d68157d",
+  "active": "bd7402f2a267594f",
   "lastOpenFiles": [
-    "Domain1_Security Risk and Management/Recovery Point Objective (RPO).md",
-    "Domain1_Security Risk and Management/Recovery Time Objective (RTO).md",
-    "Domain1_Security Risk and Management/Maximum Tolerable Outage (MTO).md",
     "Domain1_Security Risk and Management/Group/Law.md",
-    "Domain1_Security Risk and Management/Code of Federal Regulations (CFR).md",
-    "Domain1_Security Risk and Management/Administrative Law.md",
-    "Domain1_Security Risk and Management/Data Custodian.md",
-    "Domain1_Security Risk and Management/Data Steward.md",
-    "Domain1_Security Risk and Management/Data Owner.md",
-    "Pasted image 20250916235710.png",
-    "Untitled.md",
-    "Domain1_Security Risk and Management/Defense Contractor.md",
-    "Domain1_Security Risk and Management/Defense in Depth.md",
-    "Domain1_Security Risk and Management/Group/Management.md",
-    "Domain1_Security Risk and Management/Group/Attack.md",
-    "Domain1_Security Risk and Management/Group/Institution.md",
+    "Domain1_Security Risk and Management/Beyond a Reasonable Doubt.md",
+    "Domain1_Security Risk and Management/Beyond the Shadow of a Doubt.md",
+    "Domain1_Security Risk and Management/Binding Corporate Rules.md",
+    "Domain1_Security Risk and Management/Administrative Investigation.md",
     "Domain1_Security Risk and Management/Group/Rule.md",
-    "Domain1_Security Risk and Management/Mandatory Vacation.md",
-    "Domain1_Security Risk and Management/The segregation of duties (SoD).md",
-    "Domain1_Security Risk and Management/The U.S. Patent and Trademark Office (USPTO).md",
-    "Domain1_Security Risk and Management/The Library of Congress Copyright Office.md",
-    "Domain1_Security Risk and Management/SYN flood attack.md",
-    "Domain1_Security Risk and Management/Health Insurance Portability and Accountability Act (HIPAA).md",
+    "Domain1_Security Risk and Management/Code of Ethics Canons.md",
+    "Domain1_Security Risk and Management/Export of encryption software.md",
+    "Domain1_Security Risk and Management/Due Care.md",
+    "Domain1_Security Risk and Management/Due Diligence.md",
+    "Domain1_Security Risk and Management/List of Assets.md",
+    "Domain1_Security Risk and Management/Group/Management.md",
+    "Domain1_Security Risk and Management/Risk Management.md",
+    "Domain1_Security Risk and Management/Residual risk.md",
+    "Domain1_Security Risk and Management/Standard Contractual Clauses.md",
+    "Domain1_Security Risk and Management/Senior Manager.md",
+    "Domain1_Security Risk and Management/Group/Role.md",
+    "Domain1_Security Risk and Management/Perpetual License.md",
+    "Domain1_Security Risk and Management/End-user License Agreement (EULA).md",
+    "Domain1_Security Risk and Management/Group/Agreement.md",
+    "Domain1_Security Risk and Management/Enterprise License Agreement (ELA).md",
+    "Domain1_Security Risk and Management/Group/Institution.md",
+    "Domain1_Security Risk and Management/Chief Information Officer (CIO).md",
     "Domain1_Security Risk and Management/Trademark.md",
     "Domain1_Security Risk and Management/Lanham Act.md",
-    "Domain1_Security Risk and Management/Patent.md",
-    "Domain1_Security Risk and Management/Beyond a Reasonable Doubt.md",
+    "Domain1_Security Risk and Management/Service Level Agreement (SLA).md",
+    "Pasted image 20250916235710.png",
     "Domain1_Security Risk and Management/Group"
   ]
 }

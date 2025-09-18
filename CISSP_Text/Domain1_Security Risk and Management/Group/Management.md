@@ -7,4 +7,6 @@
 [[Security Controls Assessment (SCA)]]
 [[Mandatory Vacation]]
 [[Defense in Depth]]
+[[System and Organization Controls (SOC)]]
+
 
