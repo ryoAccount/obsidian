@@ -3,7 +3,7 @@ And planning security starts with a vision, and that's what we call a strategic 
 - **Strategic Plan**: Outlines the long-term businessgoals and objectives over a 3-5year period, but updated annually
 - **Tactical Plan**: Outlines the mid-range goals and objectives to meet the strategic plan over a 1 year period
 - **Operational Plan**: Outlines the short-range goals and objectives to meet the tactical and strategic plan objectives over the next 1-3 months
-
+[[Security Planning]]
 ![[Pasted image 20250903233407.png]]
 
 ---
