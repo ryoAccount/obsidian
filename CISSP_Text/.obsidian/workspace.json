@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1_Security Risk and Management/Data breach notification laws.md",
+                "file": "Domain1_Security Risk and Management/Administrative Law.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data breach notification laws"
+              "title": "Administrative Law"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Data breach notification laws",
+                "query": "BCP",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,34 +169,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "bd7402f2a267594f",
+  "active": "adbe7c0d4d68157d",
   "lastOpenFiles": [
+    "Domain1_Security Risk and Management/Administrative Investigation.md",
+    "Domain1_Security Risk and Management/Acceptance.md",
+    "Domain1_Security Risk and Management/Group/Attack.md",
+    "Domain1_Security Risk and Management/Group/Agreement.md",
+    "Domain1_Security Risk and Management/Business Continuity Plan (BCP).md",
+    "Domain1_Security Risk and Management/Group/Rule.md",
+    "Domain1_Security Risk and Management/Baseline.md",
+    "Domain1_Security Risk and Management/Denial-of-Service (DoS) attack.md",
+    "Domain1_Security Risk and Management/Control Objectives for Information and Related Technology (COBIT).md",
+    "Domain1_Security Risk and Management/Group/Management.md",
+    "Domain1_Security Risk and Management/Risk Management.md",
+    "Domain1_Security Risk and Management/Risk Maturity Model (RMM).md",
+    "Domain1_Security Risk and Management/Mandatory Vacation.md",
+    "Domain1_Security Risk and Management/Non-Compete Agreement（NCA）.md",
+    "Domain1_Security Risk and Management/Group/Technology.md",
+    "Domain1_Security Risk and Management/Hashing.md",
+    "Domain1_Security Risk and Management/Tampering.md",
+    "Domain1_Security Risk and Management/Redundant Array of Inexpensive Disks (RAID).md",
+    "Domain1_Security Risk and Management/Group/Institution.md",
+    "Domain1_Security Risk and Management/Virtual LAN (VLAN).md",
+    "Domain1_Security Risk and Management/Virtual Private Network (VPN).md",
+    "Domain1_Security Risk and Management/Perimeter Firewall.md",
+    "Domain1_Security Risk and Management/Data breach notification laws.md",
     "Domain1_Security Risk and Management/Group/Law.md",
     "Domain1_Security Risk and Management/Beyond a Reasonable Doubt.md",
     "Domain1_Security Risk and Management/Beyond the Shadow of a Doubt.md",
-    "Domain1_Security Risk and Management/Binding Corporate Rules.md",
-    "Domain1_Security Risk and Management/Administrative Investigation.md",
-    "Domain1_Security Risk and Management/Group/Rule.md",
-    "Domain1_Security Risk and Management/Code of Ethics Canons.md",
-    "Domain1_Security Risk and Management/Export of encryption software.md",
-    "Domain1_Security Risk and Management/Due Care.md",
-    "Domain1_Security Risk and Management/Due Diligence.md",
-    "Domain1_Security Risk and Management/List of Assets.md",
-    "Domain1_Security Risk and Management/Group/Management.md",
-    "Domain1_Security Risk and Management/Risk Management.md",
-    "Domain1_Security Risk and Management/Residual risk.md",
-    "Domain1_Security Risk and Management/Standard Contractual Clauses.md",
-    "Domain1_Security Risk and Management/Senior Manager.md",
-    "Domain1_Security Risk and Management/Group/Role.md",
-    "Domain1_Security Risk and Management/Perpetual License.md",
-    "Domain1_Security Risk and Management/End-user License Agreement (EULA).md",
-    "Domain1_Security Risk and Management/Group/Agreement.md",
-    "Domain1_Security Risk and Management/Enterprise License Agreement (ELA).md",
-    "Domain1_Security Risk and Management/Group/Institution.md",
-    "Domain1_Security Risk and Management/Chief Information Officer (CIO).md",
-    "Domain1_Security Risk and Management/Trademark.md",
-    "Domain1_Security Risk and Management/Lanham Act.md",
-    "Domain1_Security Risk and Management/Service Level Agreement (SLA).md",
     "Pasted image 20250916235710.png",
     "Domain1_Security Risk and Management/Group"
   ]
