@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1_Security Risk and Management/Group/Institution.md",
+                "file": "Domain1_Security Risk and Management/Electronic Communications Privacy Act (ECPA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Institution"
+              "title": "Electronic Communications Privacy Act (ECPA)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "BCP",
+                "query": "CALEA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,6 +171,15 @@
   },
   "active": "adbe7c0d4d68157d",
   "lastOpenFiles": [
+    "Domain1_Security Risk and Management/Group/Law.md",
+    "Domain1_Security Risk and Management/Communications Assistance for Law Enforcement Act (CALEA).md",
+    "Domain1_Security Risk and Management/Electronic Communications Privacy Act (ECPA).md",
+    "Domain1_Security Risk and Management/Wiretapping.md",
+    "Domain1_Security Risk and Management/Group/Attack.md",
+    "Domain1_Security Risk and Management/ISO 27002.md",
+    "Domain1_Security Risk and Management/Group/Guideline.md",
+    "Domain1_Security Risk and Management/Information Technology Infrastructure Library (ITIL).md",
+    "Domain1_Security Risk and Management/Group/Institution.md",
     "Domain1_Security Risk and Management/Group/Management.md",
     "Domain1_Security Risk and Management/Group/Technology.md",
     "Domain1_Security Risk and Management/Disaster Recovery (DR) Site.md",
@@ -180,25 +189,16 @@
     "Domain1_Security Risk and Management/Hot Site.md",
     "Domain1_Security Risk and Management/Cold Site.md",
     "Domain1_Security Risk and Management/Business Continuity Plan (BCP).md",
-    "Domain1_Security Risk and Management/Group/Rule.md",
     "Domain1_Security Risk and Management/Emergency Response Guideline.md",
-    "Domain1_Security Risk and Management/Group/Institution.md",
     "Domain1_Security Risk and Management/NIST Risk Management Framework (RMF).md",
     "Domain1_Security Risk and Management/National Institute of Standards and Technology (NIST).md",
     "Pasted image 20250923151742.png",
     "Domain1_Security Risk and Management/Baseline.md",
     "Domain1_Security Risk and Management/Key Logger.md",
-    "Domain1_Security Risk and Management/Group/Attack.md",
     "Domain1_Security Risk and Management/Security Champion.md",
     "Domain1_Security Risk and Management/Group/Role.md",
     "Domain1_Security Risk and Management/Payment Card Industry Data Security Standard (PCI DSS).md",
     "Domain1_Security Risk and Management/Purchase Cost Method.md",
-    "Domain1_Security Risk and Management/Depreciation Cost Method.md",
-    "Domain1_Security Risk and Management/Replacement Cost Method.md",
-    "Domain1_Security Risk and Management/Risk Management.md",
-    "Domain1_Security Risk and Management/Administrative Law.md",
-    "Domain1_Security Risk and Management/Administrative Investigation.md",
-    "Domain1_Security Risk and Management/Acceptance.md",
     "Pasted image 20250916235710.png",
     "Domain1_Security Risk and Management/Group"
   ]
