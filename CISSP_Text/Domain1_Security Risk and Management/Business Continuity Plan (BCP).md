@@ -37,3 +37,8 @@ BCP documentation normally includes
 - 緊急時の対応手順
 - 計画の維持・運用および検証方法
 
+---
+
+The project scope and planning phase includes four actions: a structured analysis of the organization, the creation of a BCP team, an assessment of available resources, and an analysis of the legal and regulatory landscape.
+
+プロジェクトの範囲と計画策定フェーズには、以下の4つの活動が含まれます。組織の体系的な分析、BCPチームの設立、利用可能なリソースの評価、そして法的・規制環境の分析です。
