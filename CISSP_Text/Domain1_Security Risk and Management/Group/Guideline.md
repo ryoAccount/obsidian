@@ -1,5 +1,5 @@
 
-[[Code of Ethics Canons]]
+[[Code of Ethics Canons]] / [[Federal Code of Ethics]]
 [[Binding Corporate Rules]]
 [[Payment Card Industry Data Security Standard (PCI DSS)]]
 [[Export of encryption software]]

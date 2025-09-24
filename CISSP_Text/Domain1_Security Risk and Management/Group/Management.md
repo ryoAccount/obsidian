@@ -5,7 +5,7 @@
 [[Administrative Investigation]]
 [[Security Controls Assessment (SCA)]]
 [[Mandatory Vacation]]
-[[Defense in Depth]]
+[[Defense in Depth]] / [[Least Privilege]] / [[Separation of Duty]]
 [[System and Organization Controls (SOC)]]
 [[Control Objectives for Information and Related Technology (COBIT)]]
 [[Replacement Cost Method]] / [[Depreciation Cost Method]] / [[Purchase Cost Method]]
