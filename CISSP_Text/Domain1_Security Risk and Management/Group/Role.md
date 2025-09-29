@@ -3,4 +3,4 @@
 [[Data Custodian]]
 [[Chief Information Officer (CIO)]]
 [[Senior Manager]]
-[[Security Champion]]
+[[Security Champion Program]]

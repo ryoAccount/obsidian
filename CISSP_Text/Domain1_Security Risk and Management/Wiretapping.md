@@ -1,4 +1,4 @@
 
-Wiretapping refers to the act of intercepting someone else's communications, such as telephone calls or internet communications.
+Wiretapping is a specific form of electronic [[Eavesdropping]] that involves tapping into a telecommunication line—like a phone or internet cable—to intercept communications.
 
-ワイヤータッピングは、電話やインターネット通信など、他人の通信を傍受する行為を指す。
+盗聴とは、電話線やインターネット回線などの通信回線に不正アクセスして通信内容を傍受する、一種の電子的な盗聴行為を指します。

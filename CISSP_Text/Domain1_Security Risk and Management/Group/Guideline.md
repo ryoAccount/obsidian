@@ -8,4 +8,6 @@
 [[Emergency Response Guideline]]
 [[ISO 27002]]
 [[Information Technology Infrastructure Library (ITIL)]]
+[[Prehire Screening Process]]
 
+[[Maximum Tolerable Outage (MTO)]] / [[Recovery Point Objective (RPO)]] / [[Recovery Time Objective (RTO)]]

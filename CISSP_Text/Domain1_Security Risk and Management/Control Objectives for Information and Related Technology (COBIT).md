@@ -1,5 +1,5 @@
 
-Control Objectives for Information and Related Technologies(COBIT) is an IT governance and management framework developed by ISACA that provides manage risk, ensure compliance, and deliver value.
+Control Objectives for Information and Related Technologies (COBIT) is an IT governance and management framework developed by ISACA that provides [[Risk Management]], ensure compliance, and deliver value.
 
 情報技術関連の統制目標（COBIT）は、ISACAが開発したITガバナンスおよび管理フレームワークであり、リスク管理、コンプライアンスの確保、そして価値創造を支援するものです。
 
@@ -22,3 +22,5 @@ COBITは、ITガバナンスに関して以下の6つの原則を提唱してい
 管理とガバナンスの差別化
 組織の要求に応じた適応（テーラリング）
 エンド・トゥ・エンドのガバナンスシステム
+
+![[Pasted image 20250930001454.png]]
