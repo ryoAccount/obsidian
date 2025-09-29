@@ -1,5 +1,5 @@
 
-Patents and trade secrets can both protect intellectual property related to a manufacturing process. 
+Patents and trade secrets can both protect [[Intellectual Property]] related to a manufacturing process. 
 Trade secrets are appropriate only when the details can be tightly controlled within an organization 
 [[Copyright Act]] are used to protect creative works, while [[Trademark]]s are used to protect names, logos, and symbols.
 

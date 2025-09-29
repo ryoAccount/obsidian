@@ -13,5 +13,3 @@ SCCは「企業間の契約」、BCRは「企業グループ内のルール」�
 ---
 
 https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en
-
-[[Privacy Shield]]
