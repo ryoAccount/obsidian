@@ -9,5 +9,10 @@ Export of [[Encryption Software]]
 [[ISO 27002]]
 [[Information Technology Infrastructure Library (ITIL)]]
 [[Prehire Screening Process]]
-
 [[Maximum Tolerable Outage (MTO)]] / [[Recovery Point Objective (RPO)]] / [[Recovery Time Objective (RTO)]]
+
+---
+
+[[NIST 800-53]]
+[[Domain2_Asset Security/Control Objectives for Information and Related Technology (COBIT)|Control Objectives for Information and Related Technology (COBIT)]]
+
