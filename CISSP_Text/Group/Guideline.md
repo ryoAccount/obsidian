@@ -14,5 +14,6 @@ Export of [[Encryption Software]]
 ---
 
 [[NIST 800-53]]
-[[Domain2_Asset Security/Control Objectives for Information and Related Technology (COBIT)|Control Objectives for Information and Related Technology (COBIT)]]
+[[Control Objectives for Information and Related Technology (COBIT)]]
+[[Data Retention Policy]]
 

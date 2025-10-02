@@ -8,3 +8,7 @@
 [[Cloud Access Security Broker (CASB)]]
 [[Next Generation Firewall (NGFW)]]
 [[Security Orchestration, Automation, and Response (SOAR)]]
+
+---
+
+[[Asset Metadata]]

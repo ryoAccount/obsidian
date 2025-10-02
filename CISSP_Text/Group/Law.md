@@ -22,10 +22,7 @@
 [[Act on the Protection of Personal Information (APPI)]]
 
 
----
-
 related
-
 - **GLBA**: 金融業界
 - **FISMA**: 連邦政府機関
 - **SOX**: 上場企業全般の財務報告
@@ -35,10 +32,7 @@ related
 - **EEA**: 営業秘密
 - **Lanham Act**: 商標・トレードドレス
 
----
-
 Privacy Protection Act
-
 - GDPR: EU
 - POPIA: South Africa
 - PIPL: China

@@ -6,10 +6,13 @@
 [[Security Controls Assessment (SCA)]]
 [[Mandatory Vacation]]
 [[System and Organization Controls (SOC)]]
-[[Domain1_Security Risk and Management/Control Objectives for Information and Related Technology (COBIT)]]
+[[Control Objectives for Information and Related Technology (COBIT)]]
 [[Replacement Cost Method]] / [[Depreciation Cost Method]] / [[Purchase Cost Method]]
 [[Security Champion Program]]
 [[Reduction Analysis]]
 [[Supply Chain Management (SCM)]]
 
+---
+
+[[Data Classification]]
 
