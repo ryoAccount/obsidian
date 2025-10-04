@@ -12,3 +12,7 @@
 ---
 
 [[Asset Metadata]]
+[[Watermark]]
+[[Advanced Encryption Standard（AES）]] / [[Transport Layer Security（TLS）]]
+[[Data Loss Prevention (DLP)]]
+

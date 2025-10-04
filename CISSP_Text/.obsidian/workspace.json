@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "ab49115b45de9840",
+    "id": "61c02eef95268d6a",
     "type": "split",
     "children": [
       {
-        "id": "14ce6a92143a0a83",
+        "id": "32b30765f6dee122",
         "type": "tabs",
         "children": [
           {
-            "id": "02932451ece002ce",
+            "id": "daaba245cb2a4ac6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain2_Asset Security/Data Lifecycle.md",
+                "file": "Domain2_Asset Security/Sanitization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Data Lifecycle"
+              "title": "Sanitization"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "974fffbeebc5dcc3",
+    "id": "6a0de6afeff5ba0d",
     "type": "split",
     "children": [
       {
-        "id": "ebf337bd6ecd72b9",
+        "id": "d3bcddabea0003f8",
         "type": "tabs",
         "children": [
           {
-            "id": "bd7402f2a267594f",
+            "id": "5f92cbdb7469431b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "79f093c4983e156e",
+            "id": "39c6949ca4040542",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "shadow IT",
+                "query": "trade secret",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "e2a3c7ba134ffcf2",
+            "id": "be416fce7ad406be",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "92b57bd1b32eae61",
+    "id": "0e48bc03a421562b",
     "type": "split",
     "children": [
       {
-        "id": "6e9b4b328bafa6a6",
+        "id": "bfb458f96bb4c4db",
         "type": "tabs",
         "children": [
           {
-            "id": "54aa5fce0d1225fc",
+            "id": "9bc0dc9b3ae73b02",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Domain1_Security Risk and Management/Data Custodian.md",
+                "file": "Domain1_Security Risk and Management/2/Residual risk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Data Custodian"
+              "title": "Backlinks for Residual risk"
             }
           },
           {
-            "id": "5107a04fd23f64c6",
+            "id": "cd99da64434564d8",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Domain1_Security Risk and Management/Data Custodian.md",
+                "file": "Domain1_Security Risk and Management/2/Residual risk.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data Custodian"
+              "title": "Outgoing links from Residual risk"
             }
           },
           {
-            "id": "0f33ecab378a8e15",
+            "id": "b60cc531b21b850a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,18 +137,18 @@
             }
           },
           {
-            "id": "c7ada5d92c27f70d",
+            "id": "10a10caf2bbef2ae",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Domain1_Security Risk and Management/Data Custodian.md",
+                "file": "Domain1_Security Risk and Management/2/Residual risk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data Custodian"
+              "title": "Outline of Residual risk"
             }
           }
         ]
@@ -169,46 +169,51 @@
       "bases:Create new base": false
     }
   },
-  "active": "02932451ece002ce",
+  "active": "daaba245cb2a4ac6",
   "lastOpenFiles": [
-    "Domain1_Security Risk and Management/Right to Erasure.md",
-    "Domain1_Security Risk and Management/General Data Protection Regulation (GDPR).md",
-    "Domain1_Security Risk and Management/Standard Contractual Clauses.md",
-    "Group/Law.md",
-    "Domain2_Asset Security/Cloud Access Security Broker (CASB).md",
-    "Domain1_Security Risk and Management/Beyond a Reasonable Doubt.md",
-    "Domain2_Asset Security/Next Generation Firewall (NGFW).md",
-    "Domain2_Asset Security/Sanitization.md",
-    "Domain2_Asset Security/Data Remanence.md",
-    "Domain2_Asset Security/Clearing.md",
-    "Domain2_Asset Security/Security Orchestration, Automation, and Response (SOAR).md",
-    "Group/Technology.md",
-    "Domain2_Asset Security/Asset Metadata.md",
-    "Domain2_Asset Security/Erasing.md",
-    "Domain2_Asset Security/Bounds Checking.md",
-    "Domain2_Asset Security/Data Classification.md",
-    "Domain2_Asset Security/Data Lifecycle.md",
-    "Pasted image 20251003011331.png",
-    "Pasted image 20251003011459.png",
-    "Domain2_Asset Security/Data Retention Policy.md",
-    "Domain2_Asset Security/Destruction.md",
-    "Domain2_Asset Security/NIST 800-53.md",
     "Domain2_Asset Security/Purging.md",
-    "Domain2_Asset Security/Tailoring.md",
-    "Domain1_Security Risk and Management/Disaster Recovery (DR) Site.md",
-    "Group/Concept.md",
-    "Group/Institution.md",
-    "Domain2_Asset Security/Scoping.md",
+    "Domain2_Asset Security/Sanitization.md",
+    "Domain2_Asset Security/Clearing.md",
+    "Domain2_Asset Security/Data Classification.md",
+    "Domain2_Asset Security/Data Remanence.md",
+    "Domain2_Asset Security/Data at rest.md",
+    "Domain2_Asset Security/Data State.md",
+    "Domain2_Asset Security/Data Loss Prevention (DLP).md",
+    "Group/Technology.md",
+    "Domain2_Asset Security/Transport Layer Security（TLS）.md",
+    "Domain2_Asset Security/Advanced Encryption Standard（AES）.md",
+    "Domain1_Security Risk and Management/Personal Information Protection and Electronic Documents Act (PIPEDA).md",
+    "Domain1_Security Risk and Management/Personal Information Protection Law (PIPL).md",
+    "Domain1_Security Risk and Management/Perpetual License.md",
+    "Domain1_Security Risk and Management/Perimeter Firewall.md",
+    "Domain1_Security Risk and Management/Payment Card Industry Data Security Standard (PCI DSS).md",
+    "Domain1_Security Risk and Management/Patent.md",
+    "Domain1_Security Risk and Management/Non-Disclosure Agreement (NDA).md",
+    "Domain1_Security Risk and Management/Non-Compete Agreement（NCA）.md",
+    "Domain1_Security Risk and Management/National Institute of Standards and Technology (NIST).md",
+    "Domain1_Security Risk and Management/NIST Risk Management Framework (RMF).md",
+    "Domain1_Security Risk and Management/Mobile Site.md",
+    "Domain1_Security Risk and Management/Mitigated risk.md",
+    "Domain1_Security Risk and Management/Mitigate.md",
+    "Domain1_Security Risk and Management/Maximum Tolerable Outage (MTO).md",
+    "Domain1_Security Risk and Management/Mandatory Vacation.md",
+    "Pasted image 20251003011459.png",
     "Pasted image 20251002001950.png",
     "Pasted image 20251001235528.png",
-    "Domain2_Asset Security/Group",
-    "Domain2_Asset Security/Group",
     "Pasted image 20250930001454.png",
-    "Domain2_Asset Security",
     "Pasted image 20250929234657.png",
     "Pasted image 20250923160225.png",
     "Pasted image 20250923151742.png",
     "Pasted image 20250916235710.png",
-    "Group"
+    "Group",
+    "Domain2_Asset Security",
+    "Domain1_Security Risk and Management/26",
+    "Domain1_Security Risk and Management/25",
+    "Domain1_Security Risk and Management/24",
+    "Domain1_Security Risk and Management/23",
+    "Domain1_Security Risk and Management/22",
+    "Domain1_Security Risk and Management/21",
+    "Domain1_Security Risk and Management/20",
+    "Domain1_Security Risk and Management/19"
   ]
 }
