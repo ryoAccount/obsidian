@@ -7,4 +7,6 @@
 [[Data Lifecycle]]
 [[Sanitization]]
 [[Data State]]
+[[Personally identifiable information (PII)]]
+[[End of Life (EOL)]] / [[End of Support (EOS)]]
 

@@ -2,13 +2,13 @@
 Baselines provide the minimum level of security that every system throughout **the organization must meet**. 
 This type of information would not appear in a policy, guideline, or procedure.
 
-Policies represent a higher-level concept, while guidelines outline specific actions, and baselines establish minimum standards.
+The security controls implemented from a baseline should match the [[Data Classification]] of the data used or stored on the system.
 
 
 ベースラインは、**組織内のすべてのシステムが満たすべき**最低限のセキュリティレベルを規定するものです。
 この種の情報は、ポリシーやガイドライン、手順書には記載されないものです。
 
-ポリシーが上位の概念で、ガイドラインが具体的な行動の手順、ベースラインが最低基準となる関係にあります。
+ベースラインから実装されるセキュリティ制御は、システムで使用または保存されるデータのデータ分類と一致する必要があります。
 
 ---
 

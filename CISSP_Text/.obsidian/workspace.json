@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain2_Asset Security/Sanitization.md",
+                "file": "Domain2_Asset Security/Data State.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sanitization"
+              "title": "Data State"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trade secret",
+                "query": "Data Class",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -171,32 +172,33 @@
   },
   "active": "daaba245cb2a4ac6",
   "lastOpenFiles": [
-    "Domain2_Asset Security/Purging.md",
-    "Domain2_Asset Security/Sanitization.md",
-    "Domain2_Asset Security/Clearing.md",
+    "Domain2_Asset Security/Data Retention Policy.md",
     "Domain2_Asset Security/Data Classification.md",
-    "Domain2_Asset Security/Data Remanence.md",
-    "Domain2_Asset Security/Data at rest.md",
-    "Domain2_Asset Security/Data State.md",
-    "Domain2_Asset Security/Data Loss Prevention (DLP).md",
+    "Domain2_Asset Security/End of Support (EOS).md",
+    "Domain2_Asset Security/End of Life (EOL).md",
+    "Group/Concept.md",
+    "Pasted image 20251007005637.png",
     "Group/Technology.md",
+    "Domain2_Asset Security/BitLocker.md",
+    "Domain2_Asset Security/Full Disk Encryption (FDE).md",
+    "Domain2_Asset Security/Data at rest.md",
     "Domain2_Asset Security/Transport Layer Security（TLS）.md",
+    "Domain2_Asset Security/Data State.md",
     "Domain2_Asset Security/Advanced Encryption Standard（AES）.md",
-    "Domain1_Security Risk and Management/Personal Information Protection and Electronic Documents Act (PIPEDA).md",
-    "Domain1_Security Risk and Management/Personal Information Protection Law (PIPL).md",
-    "Domain1_Security Risk and Management/Perpetual License.md",
-    "Domain1_Security Risk and Management/Perimeter Firewall.md",
+    "Domain1_Security Risk and Management/Act on the Protection of Personal Information (APPI).md",
+    "Domain1_Security Risk and Management/Data Breach Notification Laws.md",
+    "Domain2_Asset Security/Sanitization.md",
+    "Domain2_Asset Security/Personally identifiable information (PII).md",
+    "Domain1_Security Risk and Management/Baseline.md",
+    "Domain2_Asset Security/Baselining.md",
+    "Domain2_Asset Security/NIST 800-53.md",
+    "Domain2_Asset Security/Bounds Checking.md",
+    "Domain2_Asset Security/Tailoring.md",
+    "Domain2_Asset Security/Security Orchestration, Automation, and Response (SOAR).md",
+    "Domain2_Asset Security/Scoping.md",
+    "Group/Institution.md",
+    "Domain2_Asset Security/Center for Internet Security（CIS）.md",
     "Domain1_Security Risk and Management/Payment Card Industry Data Security Standard (PCI DSS).md",
-    "Domain1_Security Risk and Management/Patent.md",
-    "Domain1_Security Risk and Management/Non-Disclosure Agreement (NDA).md",
-    "Domain1_Security Risk and Management/Non-Compete Agreement（NCA）.md",
-    "Domain1_Security Risk and Management/National Institute of Standards and Technology (NIST).md",
-    "Domain1_Security Risk and Management/NIST Risk Management Framework (RMF).md",
-    "Domain1_Security Risk and Management/Mobile Site.md",
-    "Domain1_Security Risk and Management/Mitigated risk.md",
-    "Domain1_Security Risk and Management/Mitigate.md",
-    "Domain1_Security Risk and Management/Maximum Tolerable Outage (MTO).md",
-    "Domain1_Security Risk and Management/Mandatory Vacation.md",
     "Pasted image 20251003011459.png",
     "Pasted image 20251002001950.png",
     "Pasted image 20251001235528.png",
