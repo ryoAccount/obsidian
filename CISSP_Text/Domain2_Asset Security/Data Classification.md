@@ -8,3 +8,13 @@ Common practice makes proprietary or confidential data the most sensitive data.
 このプロセスを通じて、組織は保有する情報の価値を理解し、データに応じた適切なセキュリティ対策を適用して保護し、効率的なデータ管理を実現することができます。﻿
 
 一般的な慣行では、独自のデータや機密データは最も機密性の高いデータになります。
+
+---
+
+Priority
+- 1. [[Confidential]]
+- 1. [[Proprietary]]
+- 2. [[Private]]
+- 3. [[Sensitive]]
+- 4. Public
+
