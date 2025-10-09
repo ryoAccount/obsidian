@@ -8,4 +8,5 @@ If an organization continues to use an EOS system, then the risk of compromise i
 
 ![[Pasted image 20251007005637.png]]
 
-End of Sales -> [[End of Life (EOL)]] -> End of Support
+Order
+- End of Sales -> [[End of Life (EOL)]] -> End of Support

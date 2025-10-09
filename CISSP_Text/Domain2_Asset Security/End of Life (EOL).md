@@ -8,4 +8,5 @@ EOL後も一定期間はサービスとサポートが継続されますが、�
 
 ![[Pasted image 20251007005637.png]]
 
-End of Sales -> End of Life -> [[End of Support (EOS)]]
+Order
+- End of Sales -> End of Life -> [[End of Support (EOS)]]
