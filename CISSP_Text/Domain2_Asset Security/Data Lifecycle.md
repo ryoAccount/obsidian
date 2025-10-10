@@ -14,3 +14,9 @@ Once collected, data can be analyzed, used, stored, and disposed of at the end o
 
 
 ![[Pasted image 20251003011459.png]]
+
+---
+
+During the data maintenance phase of a typical data life cycle, activities like data scrubbing occur to remove unneeded, incorrect, or out-of-date data.
+
+一般的なデータ ライフ サイクルのデータ保守フェーズでは、不要なデータ、不正確なデータ、古いデータを削除するために、データ スクラブなどのアクティビティが実行されます。

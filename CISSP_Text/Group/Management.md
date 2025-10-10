@@ -15,4 +15,5 @@
 ---
 
 [[Data Classification]]
+[[Tagging]]
 

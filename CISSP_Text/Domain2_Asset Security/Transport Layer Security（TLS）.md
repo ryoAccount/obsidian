@@ -1,5 +1,5 @@
 
-Transport Layer Security (TLS) is a security protocol that encrypts internet communications and prevents eavesdropping, tampering, and spoofing. 
+Transport Layer Security (TLS) is a security protocol that encrypts internet communications and prevents [[Eavesdropping]], [[Tampering]], and [[Spoofing]]. 
 It is the successor to SSL and is widely used to ensure communication security for HTTPS, email, etc.
 
 Transport Layer Security（TLS）は、インターネット通信を暗号化し、盗聴、改ざん、なりすましを防ぐセキュリティプロトコルです。

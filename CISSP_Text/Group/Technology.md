@@ -17,5 +17,6 @@
 [[Data Loss Prevention (DLP)]]
 [[Full Disk Encryption (FDE)]] / [[BitLocker]]
 [[Group Policy]] (MicroSoft)
+[[Electronic Signature]]
 
 
