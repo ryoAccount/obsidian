@@ -16,4 +16,5 @@
 
 [[Data Classification]]
 [[Tagging]]
+[[Asset Inventory]]
 

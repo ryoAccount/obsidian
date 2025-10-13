@@ -18,5 +18,6 @@
 [[Full Disk Encryption (FDE)]] / [[BitLocker]]
 [[Group Policy]] (MicroSoft)
 [[Electronic Signature]]
+[[Active Directory (AD)]] (MicroSoft)
 
 

@@ -2,7 +2,7 @@
 Purging is a process that ensures sensitive data cannot be recovered from a storage media.
 It involves overwriting the data multiple times with random or predefined patterns, or using magnetic degaussing to destroy the magnetic data. 
 However, this method is ineffective for non-magnetic media such as SSD. 
-Purging is considered the second most secure method after Destruction.
+Purging is considered the second most secure method after [[Destruction]].
 
 
 パージングは記録媒体から機密データが一切復元されないようにすること。

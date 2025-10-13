@@ -1,5 +1,5 @@
 
-Clearing allows the reuse of storage media at the same security level. 
+Clearing allows the **reuse** of storage media at the same security level. 
 It involves overwriting the data with "0" or "1". 
 However, since forensic tools can sometimes recover [[Data Remanence]] even after clearing, this method is considered insufficient for highly sensitive data.
 
