@@ -20,4 +20,7 @@
 [[Electronic Signature]]
 [[Active Directory (AD)]] (MicroSoft)
 
+[[Tokenization]] / [[Anonymization]] / [[Data Masking]] / [[Pseudonymisation]]
+
+
 

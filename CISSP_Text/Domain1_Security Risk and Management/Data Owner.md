@@ -1,7 +1,9 @@
 
 The Data Owner holds ultimate accountability for a data domain, making strategic decisions about its access, accuracy, and security. 
+Data owners are typically CEOs or other very [[Senior Manager]].
 
 データオーナーはデータドメインに対する最終的な責任を負い、データへのアクセス、正確性、セキュリティに関する戦略的な意思決定を行います。
+データ所有者は通常、CEOやその他の上級管理職です。
 
 Data Owner -> [[Data Steward]] -> Data Custodian
 
