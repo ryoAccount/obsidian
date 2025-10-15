@@ -1,6 +1,6 @@
 
 Sarbanes Oxley (SOX) Act is a US law regarding internal controls and audits that was enacted as a countermeasure against corporate fraud.
-SOX not only requires companies to keep and report accurate financial records, but also imposes requirements regarding IT and data security.
+SOX not only requires companies to keep and report accurate **financial records**, but also imposes requirements regarding IT and data security.
 Companies are required to protect data integrity and prevent tampering and fraud by external and internal threats through appropriate management and monitoring of their IT infrastructure.
 
 サーベンス・オクスリー法は、企業の不正行為への対策として制定された内部統制および監査に関する米国の法律です。
