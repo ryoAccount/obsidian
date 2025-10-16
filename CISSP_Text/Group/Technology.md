@@ -21,6 +21,7 @@
 [[Active Directory (AD)]] (MicroSoft)
 
 [[Tokenization]] / [[Anonymization]] / [[Data Masking]] / [[Pseudonymisation]]
-
+[[RFID tag]]
+[[Symmetric Encryption]] / [[Asymmetric Encryption]]
 
 

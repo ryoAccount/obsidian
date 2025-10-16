@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1_Security Risk and Management/Intellectual Property.md",
+                "file": "Domain2_Asset Security/Clearing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intellectual Property"
+              "title": "Clearing"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Copyright",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,10 +171,26 @@
   },
   "active": "caf546a7942187eb",
   "lastOpenFiles": [
-    "Domain1_Security Risk and Management/Patent.md",
-    "Group/Law.md",
+    "Domain2_Asset Security/Asset Metadata.md",
+    "Domain2_Asset Security/Security Orchestration, Automation, and Response (SOAR).md",
+    "Group/Technology.md",
     "Group/Institution.md",
+    "Group/Law.md",
+    "Group/Attack.md",
+    "Domain1_Security Risk and Management/Risk.md",
+    "Domain2_Asset Security/Symmetric Encryption.md",
+    "Domain2_Asset Security/Asymmetric Encryption.md",
+    "Domain2_Asset Security/System Owner.md",
     "Domain2_Asset Security/Digital Rights Management (DRM).md",
+    "Domain2_Asset Security/Data Classification.md",
+    "Domain2_Asset Security/Confidential.md",
+    "Domain2_Asset Security/Proprietary.md",
+    "Group/Concept.md",
+    "Domain2_Asset Security/RFID tag.md",
+    "Pasted image 20251017000925.png",
+    "Domain1_Security Risk and Management/Protection of Personal Information Act (POPIA).md",
+    "Domain1_Security Risk and Management/Intellectual Property.md",
+    "Domain1_Security Risk and Management/Patent.md",
     "Domain1_Security Risk and Management/Safe Harbor.md",
     "Domain1_Security Risk and Management/Digital Millennium Copyright Act (DMCA).md",
     "Domain1_Security Risk and Management/Copyright.md",
@@ -183,21 +198,6 @@
     "Domain1_Security Risk and Management/Trademark.md",
     "Domain1_Security Risk and Management/Data Custodian.md",
     "Domain1_Security Risk and Management/Senior Manager.md",
-    "Domain1_Security Risk and Management/Data Owner.md",
-    "Domain2_Asset Security/System Owner.md",
-    "Domain2_Asset Security/Data Remanence.md",
-    "Domain2_Asset Security/National Security Agency (NSA).md",
-    "Domain2_Asset Security/Destruction.md",
-    "Domain1_Security Risk and Management/Residual risk.md",
-    "Domain1_Security Risk and Management/Eavesdropping.md",
-    "Domain1_Security Risk and Management/Communications Assistance for Law Enforcement Act (CALEA).md",
-    "Domain1_Security Risk and Management/Wiretapping.md",
-    "Domain1_Security Risk and Management/Payment Card Industry Data Security Standard (PCI DSS).md",
-    "Group/Guideline.md",
-    "Domain1_Security Risk and Management/Federal Information Security Modernization Act (FISMA).md",
-    "Domain1_Security Risk and Management/Gramm-Leach-Bliley Act (GLBA).md",
-    "Domain1_Security Risk and Management/Health Insurance Portability and Accountability Act (HIPAA).md",
-    "Domain1_Security Risk and Management/Children's Online Privacy Protection Act (COPPA).md",
     "Pasted image 20251007005637.png",
     "Pasted image 20251003011459.png",
     "Pasted image 20251002001950.png",
