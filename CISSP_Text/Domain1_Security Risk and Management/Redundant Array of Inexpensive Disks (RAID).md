@@ -28,3 +28,5 @@ RAIDレベルは複数のハードディスクドライブを使用すること�
 RAID2, RAID3, and RAID4 are practically no longer used today.
 
 現在では実質的に RAID2、RAID3、RAID4 は使用されていない。
+
+![[Pasted image 20251027053851.png]]

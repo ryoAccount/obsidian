@@ -23,5 +23,6 @@
 [[Tokenization]] / [[Anonymization]] / [[Data Masking]] / [[Pseudonymisation]]
 [[RFID tag]]
 [[Symmetric Encryption]] / [[Asymmetric Encryption]]
+[[Security Information and Event Management (SIEM)]]
 
 

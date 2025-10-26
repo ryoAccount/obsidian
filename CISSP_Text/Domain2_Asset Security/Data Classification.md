@@ -6,7 +6,9 @@ Common practice makes [[Proprietary]] or [[Confidential]] data the most sensitiv
 When data is stored in a mixed classification, it is typically classified based on **the highest** classification of data included.
 
 The impact on the organization if the data were exposed or breached is considered. 
-Who can access the data and what regulatory requirements cover the data are also important considerations.
+Who can access the data and what regulatory requirements cover the data are also important considerations for classifications.
+
+When the value of data changes due to legal or business reasons, reviewing classifications and reclassifying the data is an appropriate response.
 
 
 データ分類とは、データの機密性や重要度、コンプライアンス要件などに基づいてデータをカテゴリに整理するプロセスで、データガバナンスやサイバーセキュリティ戦略の基礎となります。
@@ -18,6 +20,8 @@ Who can access the data and what regulatory requirements cover the data are also
 データが漏洩または侵害された場合に組織に及ぼす影響を考慮します。
 誰がデータにアクセスできるか、どのような規制要件がデータに適用されるかも重要な考慮事項です。
 
+法的またはビジネス上の理由によりデータの価値が変わった場合は、分類を見直し、データを再分類することが適切な対応です。
+
 ---
 
 Priority
@@ -25,5 +29,5 @@ Priority
 - 1. [[Proprietary]]
 - 2. [[Private]]
 - 3. [[Sensitive]]
-- 4. Public
+- 4. [[Public]]
 

@@ -5,6 +5,6 @@ Advanced Encryption Standard（AES）は、米国で標準化された非常に�
 
 ---
 
-AES is a modern symmetric encryption algorithm that is appropriate for encrypting [[Data at rest]]. [[Transport Layer Security（TLS）]] is used to secure data when it is in motion.
+AES is a modern [[Symmetric Encryption]] algorithm that is appropriate for encrypting [[Data at rest]]. [[Transport Layer Security（TLS）]] is used to secure data when it is in motion.
 
-AES は、保存データの暗号化に適した最新の対称暗号化アルゴリズムです。TLS は、転送中のデータを保護するために使用されます。
+AES は、保存データの暗号化に適した最新の共通鍵暗号アルゴリズムです。TLS は、転送中のデータを保護するために使用されます。
