@@ -1,6 +1,6 @@
 
 A data retention policy is a set of guidelines that an organization uses to determine how long and how it will retain and dispose of information.
-Its purpose is to ensure compliance with legal and regulatory requirements, improve operational efficiency, and [[Mitigated risk]].
+Its purpose is to ensure compliance with legal and regulatory requirements, improve operational efficiency, and [[Mitigated Risk]].
 It typically includes elements such as [[Data Lifecycle]] management, [[Data Classification]], defining retention periods, and procedures for secure data deletion.
 
 

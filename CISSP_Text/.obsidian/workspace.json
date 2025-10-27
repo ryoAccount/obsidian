@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain2_Asset Security/Security Information and Event Management (SIEM).md",
+                "file": "Domain1_Security Risk and Management/Act on the Protection of Personal Information (APPI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Information and Event Management (SIEM)"
+              "title": "Act on the Protection of Personal Information (APPI)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "log",
+                "query": "GDPR",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,10 +170,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f92cbdb7469431b",
+  "active": "caf546a7942187eb",
   "lastOpenFiles": [
-    "Group/Technology.md",
+    "Domain1_Security Risk and Management/Personal Information Protection Law (PIPL).md",
+    "Domain1_Security Risk and Management/Act on the Protection of Personal Information (APPI).md",
+    "Domain1_Security Risk and Management/Protection of Personal Information Act (POPIA).md",
+    "Domain1_Security Risk and Management/General Data Protection Regulation (GDPR).md",
+    "Domain1_Security Risk and Management/Gramm-Leach-Bliley Act (GLBA).md",
+    "Domain1_Security Risk and Management/Lanham Act.md",
+    "Domain1_Security Risk and Management/Safe Harbor.md",
+    "Domain1_Security Risk and Management/Digital Millennium Copyright Act (DMCA).md",
+    "Domain1_Security Risk and Management/Residual Risk.md",
+    "Domain1_Security Risk and Management/Inherent Risk.md",
+    "Domain1_Security Risk and Management/Mitigated Risk.md",
+    "Domain1_Security Risk and Management/Control Risk.md",
+    "Domain2_Asset Security/NIST 800-53.md",
+    "Domain2_Asset Security/Bounds Checking.md",
+    "Domain2_Asset Security/Baselining.md",
+    "Domain2_Asset Security/Scoping.md",
+    "Domain2_Asset Security/Tailoring.md",
+    "Domain2_Asset Security/End of Support (EOS).md",
+    "Domain2_Asset Security/End of Life (EOL).md",
     "Domain2_Asset Security/Security Information and Event Management (SIEM).md",
+    "Group/Technology.md",
     "Pasted image 20251027062334.png",
     "Pasted image 20251027062301.png",
     "Domain2_Asset Security/Cloud Access Security Broker (CASB).md",
@@ -180,25 +200,7 @@
     "Domain2_Asset Security/Data Classification.md",
     "Domain2_Asset Security/Public.md",
     "Domain2_Asset Security/Proprietary.md",
-    "Domain2_Asset Security/Private.md",
-    "Domain2_Asset Security/Data in motion.md",
-    "Group/Guideline.md",
-    "Domain1_Security Risk and Management/Encryption Software.md",
-    "Domain2_Asset Security/Data at rest.md",
-    "Domain2_Asset Security/BitLocker.md",
-    "Domain1_Security Risk and Management/Redundant Array of Inexpensive Disks (RAID).md",
-    "Domain1_Security Risk and Management/RAID technology.md",
     "Pasted image 20251027053851.png",
-    "Domain2_Asset Security/Transport Layer Security（TLS）.md",
-    "Domain2_Asset Security/Advanced Encryption Standard（AES）.md",
-    "Domain2_Asset Security/Asymmetric Encryption.md",
-    "Domain2_Asset Security/Symmetric Encryption.md",
-    "Domain2_Asset Security/Asset Inventory.md",
-    "Group/Management.md",
-    "Domain1_Security Risk and Management/Depreciation Cost Method.md",
-    "Domain2_Asset Security/Tagging.md",
-    "Domain1_Security Risk and Management/Purchase Cost Method.md",
-    "Domain2_Asset Security/Asset Metadata.md",
     "Pasted image 20251017000925.png",
     "Pasted image 20251007005637.png",
     "Pasted image 20251003011459.png",

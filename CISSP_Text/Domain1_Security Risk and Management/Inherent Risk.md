@@ -1,4 +1,4 @@
-Inherent risk is the risk inherent in a particular activity or process before risk controls or internal controls are applied.
+Inherent Risk is the risk in a particular activity or process before risk controls or internal controls are applied.
 This is risk determined by factors such as the nature of the activity itself, uncertainty, or the business environment. For example, complex transactions or issues regarding management integrity can increase inherent risk.
 
 固有リスク（Inherent Risk）とは、リスクコントロールや内部統制が適用される前に、特定の活動やプロセスに本来内在するリスクのことです。

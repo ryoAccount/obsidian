@@ -1,5 +1,5 @@
 
-The General Data Protection Regulation (GDPR) is a set of regulations regarding personal data protection and privacy within the EU.
+The General Data Protection Regulation (GDPR) is a set of regulations regarding personal data protection and privacy within **the EU**.
 It applies to all businesses (including Japanese companies) that handle the personal data of EU residents, regardless of their location.
 It sets out principles for protecting personal information, the rights of data subjects, and the obligations of data controllers, making it a pioneering global data protection law.
 
