@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain1_Security Risk and Management/Act on the Protection of Personal Information (APPI).md",
+                "file": "Domain3_Security Architecture and Engineering/Clark-Wilson Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Act on the Protection of Personal Information (APPI)"
+              "title": "Clark-Wilson Model"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GDPR",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,8 +171,12 @@
   },
   "active": "caf546a7942187eb",
   "lastOpenFiles": [
-    "Domain1_Security Risk and Management/Personal Information Protection Law (PIPL).md",
+    "Group/Architect.md",
+    "Domain3_Security Architecture and Engineering/Clark-Wilson Model.md",
+    "Domain3_Security Architecture and Engineering/Brewer-Nash Model.md",
     "Domain1_Security Risk and Management/Act on the Protection of Personal Information (APPI).md",
+    "Domain3_Security Architecture and Engineering",
+    "Domain1_Security Risk and Management/Personal Information Protection Law (PIPL).md",
     "Domain1_Security Risk and Management/Protection of Personal Information Act (POPIA).md",
     "Domain1_Security Risk and Management/General Data Protection Regulation (GDPR).md",
     "Domain1_Security Risk and Management/Gramm-Leach-Bliley Act (GLBA).md",
@@ -197,9 +200,6 @@
     "Pasted image 20251027062301.png",
     "Domain2_Asset Security/Cloud Access Security Broker (CASB).md",
     "Domain2_Asset Security/Sensitive.md",
-    "Domain2_Asset Security/Data Classification.md",
-    "Domain2_Asset Security/Public.md",
-    "Domain2_Asset Security/Proprietary.md",
     "Pasted image 20251027053851.png",
     "Pasted image 20251017000925.png",
     "Pasted image 20251007005637.png",
@@ -216,7 +216,6 @@
     "Domain1_Security Risk and Management/23",
     "Domain1_Security Risk and Management/22",
     "Domain1_Security Risk and Management/21",
-    "Domain1_Security Risk and Management/20",
-    "Domain1_Security Risk and Management/19"
+    "Domain1_Security Risk and Management/20"
   ]
 }
