@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "036beeab8b81bebb",
+        "id": "fb88542a666836e0",
         "type": "tabs",
         "children": [
           {
-            "id": "caf546a7942187eb",
+            "id": "ca21df46a77624a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Domain3_Security Architecture and Engineering/M of N control.md",
+                "file": "Domain3_Security Architecture and Engineering/Supervisory Control And Data Acquisition (SCADA).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "M of N control"
+              "title": "Supervisory Control And Data Acquisition (SCADA)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "escrow",
+                "query": "encryption",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,35 +169,37 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f92cbdb7469431b",
+  "active": "ca21df46a77624a2",
   "lastOpenFiles": [
-    "Group/Architecture.md",
-    "Domain3_Security Architecture and Engineering/M of N control.md",
-    "Domain3_Security Architecture and Engineering/Turnstile.md",
+    "Domain2_Asset Security/IPsec.md",
     "Group/Technology.md",
-    "Domain1_Security Risk and Management/Intrusion Prevention System (IPS).md",
-    "Domain3_Security Architecture and Engineering/Closed-Circuit Television (CCTV).md",
-    "Domain3_Security Architecture and Engineering/Brewer-Nash Model.md",
+    "Domain3_Security Architecture and Engineering/IPsec.md",
+    "Domain3_Security Architecture and Engineering/Preaction Fire Suppression System.md",
+    "Domain1_Security Risk and Management/Hashing.md",
+    "Domain3_Security Architecture and Engineering/Salt.md",
+    "Domain3_Security Architecture and Engineering/Secure Hash Algorithm.md",
+    "Domain1_Security Risk and Management/Data breach notification laws.md",
+    "Domain2_Asset Security/Advanced Encryption Standard（AES）.md",
+    "Domain1_Security Risk and Management/National Institute of Standards and Technology (NIST).md",
+    "Group/Institution.md",
+    "Domain3_Security Architecture and Engineering/Trusted Computing Base (TCB).md",
+    "Domain3_Security Architecture and Engineering/Supervisory Control And Data Acquisition (SCADA).md",
+    "Domain3_Security Architecture and Engineering/Trusted Platform Module (TPM).md",
+    "Group/Role.md",
+    "Group/Architecture.md",
     "Domain3_Security Architecture and Engineering/Bell-LaPadula Model.md",
-    "Domain3_Security Architecture and Engineering/Clark-Wilson Model.md",
     "Domain3_Security Architecture and Engineering/Biba Model.md",
-    "Group/Agreement.md",
-    "Domain1_Security Risk and Management/Act on the Protection of Personal Information (APPI).md",
+    "Pasted image 20251109102552.png",
+    "Domain3_Security Architecture and Engineering/Maintenance Hook.md",
+    "Group/Attack.md",
+    "Group/Concept.md",
+    "Domain3_Security Architecture and Engineering/Assurance.md",
+    "Domain3_Security Architecture and Engineering/Bounds.md",
+    "Domain3_Security Architecture and Engineering/Confinement.md",
+    "Domain3_Security Architecture and Engineering/Closed-Circuit Television (CCTV).md",
+    "Group/Guideline.md",
+    "Pasted image 20251109082258.png",
     "Domain3_Security Architecture and Engineering",
-    "Domain1_Security Risk and Management/Personal Information Protection Law (PIPL).md",
-    "Domain1_Security Risk and Management/Protection of Personal Information Act (POPIA).md",
-    "Domain1_Security Risk and Management/General Data Protection Regulation (GDPR).md",
-    "Domain1_Security Risk and Management/Gramm-Leach-Bliley Act (GLBA).md",
-    "Domain1_Security Risk and Management/Lanham Act.md",
-    "Domain1_Security Risk and Management/Safe Harbor.md",
-    "Domain1_Security Risk and Management/Digital Millennium Copyright Act (DMCA).md",
-    "Domain1_Security Risk and Management/Residual Risk.md",
-    "Domain1_Security Risk and Management/Inherent Risk.md",
-    "Domain1_Security Risk and Management/Mitigated Risk.md",
-    "Domain1_Security Risk and Management/Control Risk.md",
-    "Domain2_Asset Security/NIST 800-53.md",
-    "Domain2_Asset Security/Bounds Checking.md",
-    "Domain2_Asset Security/Baselining.md",
     "Pasted image 20251027062334.png",
     "Pasted image 20251027062301.png",
     "Pasted image 20251027053851.png",
@@ -206,8 +208,6 @@
     "Pasted image 20251003011459.png",
     "Pasted image 20251002001950.png",
     "Pasted image 20251001235528.png",
-    "Pasted image 20250930001454.png",
-    "Pasted image 20250929234657.png",
     "Group",
     "Domain2_Asset Security",
     "Domain1_Security Risk and Management/26",

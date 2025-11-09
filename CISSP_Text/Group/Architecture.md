@@ -6,6 +6,7 @@
 [[Bell-LaPadula Model]] : 機密性の維持
 
 [[M of N control]]
+[[Subject Object Model]]
 
 
 

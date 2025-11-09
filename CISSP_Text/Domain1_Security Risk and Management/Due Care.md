@@ -1,5 +1,5 @@
 
-Due care is a legal term and refers to the care and effort that a reasonable person would reasonably expect to exercise under certain circumstances.
+Due care is a legal term and refers to **the care and effort** that a reasonable person would reasonably expect to exercise under certain circumstances.
 It refers to the level of security measures and appropriate information management that companies should voluntarily implement to protect their data and systems.
 
 デュー・ケアとは、**「しかるべき注意」** を意味する法律用語で、ある状況下において、常識的な人間であれば当然払うべきと合理的に判断される注意や努力を指します。

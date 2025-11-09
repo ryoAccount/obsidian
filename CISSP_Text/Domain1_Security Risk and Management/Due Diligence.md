@@ -1,7 +1,10 @@
 
 Due diligence is the process of carefully investigating and evaluating the value, risks, and other information of a target company or business when entering into a specific transaction (M&A, investment, etc.).
+It means that a company is "**reasonably making efforts and paying attention**."
 
 デューデリジェンスとは、特定の取引（M&A、投資など）を行う際に、対象となる企業や事業の価値、リスク、その他の情報を慎重に調査・評価するプロセスです。
+企業が「**当然払うべき努力や注意**」という意味合いを持ちます。 
+
 
 ---
 

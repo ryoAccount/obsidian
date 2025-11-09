@@ -1,8 +1,13 @@
 
 In contrast to the [[Biba Model]], the Bell-Lapadura Model focuses on data **confidentiality** and access to sensitive information.
-In this model, information system entities are divided into subjects and objects.
-The concept of a "secure state" is defined, and each state transition maintains security by moving from one secure state to another.
+
+- Simple Security Property: Cannot read up (highly sensitive layers cannot be accessed)
+- Star Property: Cannot write down (low sensitive layers cannot be written)
 
 ベル・ラパドゥラモデルは、Biba Modelとは対照的に、データの**機密性**と機密情報へのアクセスに焦点を当てている。
-このモデルでは、情報システムのエンティティはサブジェクトとオブジェクトに分割される。
-「 安全な状態 」の概念が定義されており、各状態遷移は安全な状態から安全な状態に移行することによりセキュリティを維持する。
+
+- 単純セキュリティ属性 : read upできない（機密性が高い層はアクセスできない）
+- スター属性 : write downできない（機密性が低い層に書き込めない）
+
+
+![[Pasted image 20251109102552.png]]
