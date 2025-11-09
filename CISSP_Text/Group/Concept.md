@@ -20,5 +20,10 @@
 
 [[Confinement]] / [[Bounds]] / [[Trusted Computing Base (TCB)]]
 [[Assurance]]
+[[Diffie-Hellman]]
+[[Fail Secure]]
+[[Kerckhoffs' Principle]]
+[[Two Person Control]]
+
 
 

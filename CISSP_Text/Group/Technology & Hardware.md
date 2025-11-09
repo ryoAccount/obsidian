@@ -39,4 +39,6 @@
 [[Supervisory Control And Data Acquisition (SCADA)]]
 [[Trusted Platform Module (TPM)]]
 [[Preaction Fire Suppression System]]
+[[Access Control Vestibule]]
+[[Wiring Closet]]
 
